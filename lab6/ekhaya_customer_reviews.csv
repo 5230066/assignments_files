@@ -1,0 +1,851 @@
+review_id,review_date,channel,topic,district,review_text,sentiment_label
+R00001,2024-01-16,Facebook,Delivery,Karonga,The app was easy to use and checkout was smooth.,positive
+R00002,2024-01-11,WhatsApp,App,Mzuzu,I am happy with the customer care and product availability.,positive
+R00003,2025-06-21,App Review,Service,Salima,I am happy with the customer care and product availability.,positive
+R00004,2025-05-15,Facebook,App,Thyolo,I could not find the product and prices were confusing.,negative
+R00005,2025-08-15,App Review,Delivery,Rumphi,I am happy with the customer care and product availability.,positive
+R00006,2024-10-26,WhatsApp,Product Availability,Rumphi,The shop was open and stocked as usual.,neutral
+R00007,2025-01-26,WhatsApp,Delivery,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00008,2025-08-22,Email,Pricing,Salima,"Very good experience, clean shop and fair prices.",positive
+R00009,2025-07-02,Survey,Delivery,Rumphi,The order was completed without any major issue.,neutral
+R00010,2025-12-25,Email,Product Availability,Lilongwe,The app was easy to use and checkout was smooth.,positive
+R00011,2024-11-26,Survey,Delivery,Kasungu,The app kept failing and payment did not go through.,negative
+R00012,2025-09-04,Survey,Delivery,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00013,2024-01-30,WhatsApp,Service,Mzuzu,The queue was too long and staff were rude.,negative
+R00014,2025-03-16,WhatsApp,Delivery,Dedza,I could not find the product and prices were confusing.,negative
+R00015,2024-12-13,Survey,Pricing,Salima,The queue was too long and staff were rude.,negative
+R00016,2024-10-18,WhatsApp,App,Blantyre,The queue was too long and staff were rude.,negative
+R00017,2024-10-08,Email,App,Kasungu,"Very good experience, clean shop and fair prices.",positive
+R00018,2024-05-19,WhatsApp,Service,Salima,I am happy with the customer care and product availability.,positive
+R00019,2025-10-09,Facebook,Service,Lilongwe,Delivery was quick and the product quality was excellent.,positive
+R00020,2025-06-23,Email,Pricing,Dedza,The queue was too long and staff were rude.,negative
+R00021,2024-03-30,WhatsApp,Delivery,Kasungu,The order was completed without any major issue.,neutral
+R00022,2025-10-07,Facebook,Pricing,Thyolo,The process was normal and the prices were average.,neutral
+R00023,2025-07-11,App Review,Delivery,Dedza,The process was normal and the prices were average.,neutral
+R00024,2024-11-20,WhatsApp,App,Lilongwe,The process was normal and the prices were average.,neutral
+R00025,2024-12-26,Email,Pricing,Rumphi,I am happy with the customer care and product availability.,positive
+R00026,2024-02-23,Email,Service,Mzuzu,"Very good experience, clean shop and fair prices.",positive
+R00027,2025-04-06,Survey,Service,Kasungu,I am happy with the customer care and product availability.,positive
+R00028,2025-11-19,App Review,Product Availability,Blantyre,I could not find the product and prices were confusing.,negative
+R00029,2025-05-03,App Review,App,Blantyre,Delivery was late and the item was damaged.,negative
+R00030,2024-10-28,WhatsApp,Pricing,Mangochi,The app kept failing and payment did not go through.,negative
+R00031,2024-09-06,App Review,Service,Kasungu,Delivery was late and the item was damaged.,negative
+R00032,2025-07-08,App Review,Product Availability,Blantyre,The app kept failing and payment did not go through.,negative
+R00033,2025-04-06,Survey,Service,Mangochi,The service was poor and no one helped me.,negative
+R00034,2025-03-23,App Review,Product Availability,Mzimba,"Very good experience, clean shop and fair prices.",positive
+R00035,2024-01-05,App Review,Service,Mzuzu,I am happy with the customer care and product availability.,positive
+R00036,2025-03-04,WhatsApp,Delivery,Mzuzu,I bought what I needed and left.,neutral
+R00037,2025-09-17,App Review,Product Availability,Dedza,I could not find the product and prices were confusing.,negative
+R00038,2024-05-20,Facebook,App,Mangochi,I could not find the product and prices were confusing.,negative
+R00039,2024-10-05,Email,Delivery,Lilongwe,Delivery was quick and the product quality was excellent.,positive
+R00040,2024-07-03,Facebook,Delivery,Thyolo,Delivery was quick and the product quality was excellent.,positive
+R00041,2025-01-25,WhatsApp,Service,Zomba,"Very good experience, clean shop and fair prices.",positive
+R00042,2024-03-03,Survey,Product Availability,Dedza,Delivery was quick and the product quality was excellent.,positive
+R00043,2024-10-20,Facebook,App,Blantyre,I could not find the product and prices were confusing.,negative
+R00044,2024-02-10,Survey,Product Availability,Rumphi,The order was completed without any major issue.,neutral
+R00045,2024-04-01,Facebook,Product Availability,Kasungu,The app was easy to use and checkout was smooth.,positive
+R00046,2025-08-01,Email,Product Availability,Lilongwe,I am happy with the customer care and product availability.,positive
+R00047,2025-03-11,WhatsApp,Delivery,Blantyre,The queue was too long and staff were rude.,negative
+R00048,2025-08-30,App Review,Service,Blantyre,The queue was too long and staff were rude.,negative
+R00049,2024-12-07,Email,Delivery,Mzuzu,The service was poor and no one helped me.,negative
+R00050,2024-05-19,WhatsApp,Pricing,Salima,I could not find the product and prices were confusing.,negative
+R00051,2025-01-01,Survey,Service,Mzuzu,The product was available in the branch.,neutral
+R00052,2025-08-20,Email,Pricing,Kasungu,The process was normal and the prices were average.,neutral
+R00053,2025-10-08,Email,Pricing,Mzuzu,The app kept failing and payment did not go through.,negative
+R00054,2024-10-07,Facebook,Pricing,Dedza,"Very good experience, clean shop and fair prices.",positive
+R00055,2025-11-12,App Review,Pricing,Rumphi,The service was fast and the staff were helpful.,positive
+R00056,2025-09-15,WhatsApp,Service,Blantyre,Delivery was late and the item was damaged.,negative
+R00057,2024-04-29,App Review,Pricing,Mzimba,I am happy with the customer care and product availability.,positive
+R00058,2024-11-09,Survey,App,Thyolo,The order was completed without any major issue.,neutral
+R00059,2024-12-17,Facebook,Service,Blantyre,I could not find the product and prices were confusing.,negative
+R00060,2024-06-23,Survey,Product Availability,Zomba,The app was easy to use and checkout was smooth.,positive
+R00061,2025-01-07,Survey,Product Availability,Blantyre,The process was normal and the prices were average.,neutral
+R00062,2024-07-27,Email,App,Blantyre,The shop was open and stocked as usual.,neutral
+R00063,2025-06-20,App Review,App,Kasungu,The app was easy to use and checkout was smooth.,positive
+R00064,2025-05-05,Survey,Product Availability,Mzimba,The product was available in the branch.,neutral
+R00065,2024-01-07,Email,Service,Lilongwe,"Very good experience, clean shop and fair prices.",positive
+R00066,2025-07-18,Email,Delivery,Blantyre,The service was fast and the staff were helpful.,positive
+R00067,2025-04-04,Survey,Service,Thyolo,"Very good experience, clean shop and fair prices.",positive
+R00068,2024-11-01,Email,Pricing,Salima,The app was easy to use and checkout was smooth.,positive
+R00069,2025-12-12,Facebook,App,Thyolo,"Very good experience, clean shop and fair prices.",positive
+R00070,2025-10-25,App Review,Delivery,Kasungu,The service was fast and the staff were helpful.,positive
+R00071,2024-12-13,Email,Delivery,Rumphi,I am happy with the customer care and product availability.,positive
+R00072,2025-01-19,Facebook,Pricing,Mangochi,I bought what I needed and left.,neutral
+R00073,2025-01-03,WhatsApp,Product Availability,Zomba,Delivery was late and the item was damaged.,negative
+R00074,2025-09-15,WhatsApp,Service,Blantyre,I could not find the product and prices were confusing.,negative
+R00075,2024-05-17,WhatsApp,App,Zomba,I am happy with the customer care and product availability.,positive
+R00076,2025-02-19,Email,Pricing,Mzuzu,I am happy with the customer care and product availability.,positive
+R00077,2024-10-23,WhatsApp,Pricing,Mzuzu,Delivery was quick and the product quality was excellent.,positive
+R00078,2024-12-29,App Review,Service,Mangochi,I am happy with the customer care and product availability.,positive
+R00079,2025-07-17,Facebook,App,Lilongwe,The service was poor and no one helped me.,negative
+R00080,2024-07-30,Facebook,App,Salima,The shop was open and stocked as usual.,neutral
+R00081,2024-01-07,App Review,Delivery,Dedza,I bought what I needed and left.,neutral
+R00082,2024-08-19,Facebook,Service,Lilongwe,The app was easy to use and checkout was smooth.,positive
+R00083,2024-12-10,Survey,Service,Rumphi,The app was easy to use and checkout was smooth.,positive
+R00084,2024-04-23,Facebook,Pricing,Mzuzu,The app was easy to use and checkout was smooth.,positive
+R00085,2024-06-27,Email,Delivery,Mzimba,I am happy with the customer care and product availability.,positive
+R00086,2025-08-28,Email,App,Dedza,The app was easy to use and checkout was smooth.,positive
+R00087,2024-03-02,Survey,Product Availability,Lilongwe,The service was fast and the staff were helpful.,positive
+R00088,2025-04-21,Survey,App,Kasungu,The service was fast and the staff were helpful.,positive
+R00089,2025-06-18,WhatsApp,App,Salima,"Very good experience, clean shop and fair prices.",positive
+R00090,2025-12-29,Survey,Delivery,Mangochi,Delivery was late and the item was damaged.,negative
+R00091,2025-04-08,Email,Delivery,Thyolo,The queue was too long and staff were rude.,negative
+R00092,2025-03-08,WhatsApp,Delivery,Karonga,The queue was too long and staff were rude.,negative
+R00093,2025-07-08,Survey,Service,Mzuzu,I am happy with the customer care and product availability.,positive
+R00094,2025-02-12,WhatsApp,Service,Zomba,Delivery was quick and the product quality was excellent.,positive
+R00095,2025-09-13,Facebook,Pricing,Mzimba,The process was normal and the prices were average.,neutral
+R00096,2024-02-02,App Review,Product Availability,Karonga,I am happy with the customer care and product availability.,positive
+R00097,2025-10-04,Email,Delivery,Mangochi,The service was poor and no one helped me.,negative
+R00098,2025-03-08,WhatsApp,Pricing,Salima,The service was poor and no one helped me.,negative
+R00099,2025-02-25,Email,App,Mangochi,The service was fast and the staff were helpful.,positive
+R00100,2025-08-27,WhatsApp,Product Availability,Kasungu,Delivery was quick and the product quality was excellent.,positive
+R00101,2024-04-02,Facebook,Delivery,Lilongwe,The order was completed without any major issue.,neutral
+R00102,2025-06-01,WhatsApp,Service,Rumphi,I bought what I needed and left.,neutral
+R00103,2025-10-09,Email,Product Availability,Salima,"Very good experience, clean shop and fair prices.",positive
+R00104,2024-02-12,Facebook,Delivery,Thyolo,The app kept failing and payment did not go through.,negative
+R00105,2025-02-07,Facebook,App,Kasungu,"Very good experience, clean shop and fair prices.",positive
+R00106,2024-01-31,Survey,Service,Thyolo,The service was fast and the staff were helpful.,positive
+R00107,2024-12-13,WhatsApp,Service,Mangochi,I bought what I needed and left.,neutral
+R00108,2025-07-25,Survey,App,Rumphi,"Very good experience, clean shop and fair prices.",positive
+R00109,2024-10-26,App Review,Delivery,Mangochi,The app was easy to use and checkout was smooth.,positive
+R00110,2024-07-29,Facebook,Service,Mzuzu,I bought what I needed and left.,neutral
+R00111,2025-02-04,WhatsApp,Service,Mzimba,I am happy with the customer care and product availability.,positive
+R00112,2025-04-13,Facebook,Pricing,Rumphi,I bought what I needed and left.,neutral
+R00113,2025-11-25,Email,App,Zomba,The shop was open and stocked as usual.,neutral
+R00114,2025-03-06,Email,Product Availability,Mzuzu,The order was completed without any major issue.,neutral
+R00115,2024-03-11,Facebook,Service,Salima,The service was fast and the staff were helpful.,positive
+R00116,2024-01-31,Facebook,Pricing,Blantyre,The queue was too long and staff were rude.,negative
+R00117,2025-09-02,Facebook,Product Availability,Kasungu,"Very good experience, clean shop and fair prices.",positive
+R00118,2024-09-17,App Review,Pricing,Rumphi,The shop was open and stocked as usual.,neutral
+R00119,2024-10-22,Email,Service,Zomba,I bought what I needed and left.,neutral
+R00120,2024-08-18,WhatsApp,Service,Kasungu,The service was poor and no one helped me.,negative
+R00121,2024-01-24,App Review,Product Availability,Dedza,I am happy with the customer care and product availability.,positive
+R00122,2024-12-21,Facebook,App,Karonga,The service was fast and the staff were helpful.,positive
+R00123,2024-01-30,Survey,App,Kasungu,The shop was open and stocked as usual.,neutral
+R00124,2024-05-12,App Review,Product Availability,Thyolo,The service was fast and the staff were helpful.,positive
+R00125,2024-11-24,App Review,Delivery,Karonga,The service was poor and no one helped me.,negative
+R00126,2025-06-10,Facebook,App,Mzuzu,The product was available in the branch.,neutral
+R00127,2024-05-17,App Review,Pricing,Mzimba,I could not find the product and prices were confusing.,negative
+R00128,2024-12-24,Survey,App,Zomba,The shop was open and stocked as usual.,neutral
+R00129,2024-03-10,Email,App,Kasungu,The service was poor and no one helped me.,negative
+R00130,2024-05-03,Email,Product Availability,Mzuzu,The service was fast and the staff were helpful.,positive
+R00131,2025-04-17,Facebook,Product Availability,Thyolo,I bought what I needed and left.,neutral
+R00132,2024-09-26,Survey,Pricing,Mzuzu,The shop was open and stocked as usual.,neutral
+R00133,2025-06-20,Facebook,App,Salima,The process was normal and the prices were average.,neutral
+R00134,2024-06-26,WhatsApp,App,Karonga,I could not find the product and prices were confusing.,negative
+R00135,2024-10-29,App Review,App,Thyolo,The app kept failing and payment did not go through.,negative
+R00136,2025-10-30,App Review,App,Salima,I could not find the product and prices were confusing.,negative
+R00137,2024-08-17,Survey,Service,Mzuzu,Delivery was late and the item was damaged.,negative
+R00138,2024-02-10,Facebook,Delivery,Karonga,I am happy with the customer care and product availability.,positive
+R00139,2024-02-13,Email,Delivery,Karonga,The service was fast and the staff were helpful.,positive
+R00140,2024-09-26,Email,Product Availability,Mzimba,The app was easy to use and checkout was smooth.,positive
+R00141,2024-12-07,Survey,App,Lilongwe,The shop was open and stocked as usual.,neutral
+R00142,2025-11-26,Survey,Pricing,Salima,The service was poor and no one helped me.,negative
+R00143,2025-12-19,Email,Pricing,Karonga,I could not find the product and prices were confusing.,negative
+R00144,2025-01-28,WhatsApp,Service,Blantyre,"Very good experience, clean shop and fair prices.",positive
+R00145,2024-10-07,Survey,Pricing,Salima,Delivery was late and the item was damaged.,negative
+R00146,2024-02-23,App Review,Pricing,Mangochi,The app was easy to use and checkout was smooth.,positive
+R00147,2024-01-01,Survey,Service,Dedza,The service was fast and the staff were helpful.,positive
+R00148,2025-02-24,Facebook,Delivery,Thyolo,I am happy with the customer care and product availability.,positive
+R00149,2024-04-08,Email,Pricing,Karonga,The service was poor and no one helped me.,negative
+R00150,2025-07-08,Email,Delivery,Karonga,The product was available in the branch.,neutral
+R00151,2025-07-19,WhatsApp,App,Lilongwe,"Very good experience, clean shop and fair prices.",positive
+R00152,2024-10-26,Survey,Pricing,Salima,The queue was too long and staff were rude.,negative
+R00153,2024-01-19,Facebook,App,Mzimba,I bought what I needed and left.,neutral
+R00154,2024-12-11,Survey,App,Dedza,The process was normal and the prices were average.,neutral
+R00155,2025-07-19,WhatsApp,Pricing,Mangochi,I could not find the product and prices were confusing.,negative
+R00156,2025-04-21,Email,App,Salima,The shop was open and stocked as usual.,neutral
+R00157,2024-01-16,Facebook,App,Mzimba,The queue was too long and staff were rude.,negative
+R00158,2025-04-06,App Review,Service,Rumphi,I am happy with the customer care and product availability.,positive
+R00159,2025-07-13,Survey,App,Mangochi,The service was fast and the staff were helpful.,positive
+R00160,2024-12-14,Email,Service,Blantyre,The queue was too long and staff were rude.,negative
+R00161,2025-09-19,Email,Product Availability,Lilongwe,The process was normal and the prices were average.,neutral
+R00162,2024-10-01,App Review,Product Availability,Lilongwe,Delivery was quick and the product quality was excellent.,positive
+R00163,2024-11-26,WhatsApp,Pricing,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00164,2025-12-10,Survey,App,Karonga,I bought what I needed and left.,neutral
+R00165,2024-02-14,Survey,Service,Salima,I am happy with the customer care and product availability.,positive
+R00166,2025-11-12,WhatsApp,Service,Lilongwe,The order was completed without any major issue.,neutral
+R00167,2025-01-11,Facebook,App,Mangochi,The queue was too long and staff were rude.,negative
+R00168,2024-03-01,App Review,App,Thyolo,"Very good experience, clean shop and fair prices.",positive
+R00169,2024-06-08,WhatsApp,Product Availability,Mzuzu,"Very good experience, clean shop and fair prices.",positive
+R00170,2025-06-26,App Review,Pricing,Zomba,I could not find the product and prices were confusing.,negative
+R00171,2025-01-20,Email,Delivery,Kasungu,"Very good experience, clean shop and fair prices.",positive
+R00172,2024-11-09,Survey,Pricing,Blantyre,The product was available in the branch.,neutral
+R00173,2024-05-23,App Review,Service,Salima,Delivery was quick and the product quality was excellent.,positive
+R00174,2024-06-24,App Review,Delivery,Karonga,I am happy with the customer care and product availability.,positive
+R00175,2024-11-30,WhatsApp,Delivery,Salima,The shop was open and stocked as usual.,neutral
+R00176,2024-06-19,Facebook,Product Availability,Thyolo,The queue was too long and staff were rude.,negative
+R00177,2025-04-11,WhatsApp,Delivery,Thyolo,Delivery was quick and the product quality was excellent.,positive
+R00178,2024-03-05,Survey,Service,Zomba,The service was poor and no one helped me.,negative
+R00179,2024-06-26,WhatsApp,Product Availability,Dedza,The shop was open and stocked as usual.,neutral
+R00180,2025-03-29,Facebook,Delivery,Salima,Delivery was quick and the product quality was excellent.,positive
+R00181,2025-02-14,Facebook,Delivery,Mangochi,I bought what I needed and left.,neutral
+R00182,2025-03-31,App Review,App,Salima,The app kept failing and payment did not go through.,negative
+R00183,2025-04-10,App Review,Service,Mzimba,The process was normal and the prices were average.,neutral
+R00184,2024-04-05,Survey,Service,Salima,"Very good experience, clean shop and fair prices.",positive
+R00185,2024-07-31,App Review,Product Availability,Mzimba,The product was available in the branch.,neutral
+R00186,2024-07-16,App Review,Pricing,Salima,The app kept failing and payment did not go through.,negative
+R00187,2024-06-18,Facebook,App,Rumphi,The product was available in the branch.,neutral
+R00188,2024-11-14,Survey,Product Availability,Dedza,The app was easy to use and checkout was smooth.,positive
+R00189,2024-08-22,WhatsApp,App,Blantyre,The shop was open and stocked as usual.,neutral
+R00190,2025-04-26,WhatsApp,Product Availability,Mzuzu,The service was fast and the staff were helpful.,positive
+R00191,2024-12-25,Survey,Service,Zomba,The shop was open and stocked as usual.,neutral
+R00192,2025-06-03,Survey,App,Mzimba,The service was fast and the staff were helpful.,positive
+R00193,2024-07-03,Survey,Delivery,Blantyre,Delivery was quick and the product quality was excellent.,positive
+R00194,2025-09-25,Email,Delivery,Zomba,I could not find the product and prices were confusing.,negative
+R00195,2025-06-21,App Review,Service,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00196,2025-04-24,Email,Product Availability,Mzuzu,The service was fast and the staff were helpful.,positive
+R00197,2025-07-26,Survey,Delivery,Zomba,I am happy with the customer care and product availability.,positive
+R00198,2025-12-29,Facebook,Product Availability,Salima,The queue was too long and staff were rude.,negative
+R00199,2025-08-01,App Review,Service,Mangochi,The product was available in the branch.,neutral
+R00200,2024-03-20,Survey,Service,Mangochi,The order was completed without any major issue.,neutral
+R00201,2024-05-11,App Review,Service,Mangochi,The service was poor and no one helped me.,negative
+R00202,2024-04-07,WhatsApp,App,Salima,The service was fast and the staff were helpful.,positive
+R00203,2024-10-22,WhatsApp,Product Availability,Thyolo,The service was poor and no one helped me.,negative
+R00204,2025-11-23,WhatsApp,Service,Blantyre,I bought what I needed and left.,neutral
+R00205,2024-02-22,App Review,App,Zomba,The service was poor and no one helped me.,negative
+R00206,2025-10-20,Facebook,Pricing,Rumphi,"Very good experience, clean shop and fair prices.",positive
+R00207,2024-10-25,Survey,Delivery,Blantyre,The queue was too long and staff were rude.,negative
+R00208,2024-07-19,App Review,Delivery,Zomba,Delivery was late and the item was damaged.,negative
+R00209,2025-02-11,Email,Product Availability,Mzuzu,"Very good experience, clean shop and fair prices.",positive
+R00210,2025-03-28,App Review,App,Thyolo,The product was available in the branch.,neutral
+R00211,2024-04-23,Survey,Delivery,Mangochi,The service was fast and the staff were helpful.,positive
+R00212,2024-01-22,Email,Service,Kasungu,I could not find the product and prices were confusing.,negative
+R00213,2025-09-13,App Review,Service,Salima,"Very good experience, clean shop and fair prices.",positive
+R00214,2024-02-21,WhatsApp,Pricing,Kasungu,I bought what I needed and left.,neutral
+R00215,2024-01-04,WhatsApp,Delivery,Blantyre,I could not find the product and prices were confusing.,negative
+R00216,2025-10-27,Survey,Service,Mzimba,I bought what I needed and left.,neutral
+R00217,2024-03-09,Survey,Service,Lilongwe,I bought what I needed and left.,neutral
+R00218,2024-04-19,Survey,Product Availability,Mangochi,"Very good experience, clean shop and fair prices.",positive
+R00219,2025-03-27,WhatsApp,Pricing,Rumphi,The process was normal and the prices were average.,neutral
+R00220,2024-07-28,Survey,App,Mangochi,The app was easy to use and checkout was smooth.,positive
+R00221,2025-03-23,WhatsApp,App,Salima,The service was fast and the staff were helpful.,positive
+R00222,2025-01-25,Email,Service,Mzimba,"Very good experience, clean shop and fair prices.",positive
+R00223,2024-02-09,WhatsApp,Delivery,Salima,The app kept failing and payment did not go through.,negative
+R00224,2024-02-22,App Review,App,Zomba,I could not find the product and prices were confusing.,negative
+R00225,2025-09-25,App Review,App,Mangochi,I could not find the product and prices were confusing.,negative
+R00226,2024-01-29,Survey,App,Dedza,Delivery was late and the item was damaged.,negative
+R00227,2025-02-20,Email,Pricing,Salima,The service was poor and no one helped me.,negative
+R00228,2024-03-28,WhatsApp,Pricing,Mzimba,"Very good experience, clean shop and fair prices.",positive
+R00229,2024-01-24,Survey,Product Availability,Thyolo,Delivery was late and the item was damaged.,negative
+R00230,2024-03-07,WhatsApp,Delivery,Blantyre,I bought what I needed and left.,neutral
+R00231,2024-05-16,Survey,Service,Lilongwe,The shop was open and stocked as usual.,neutral
+R00232,2024-09-25,Facebook,Pricing,Rumphi,The shop was open and stocked as usual.,neutral
+R00233,2024-12-20,WhatsApp,Delivery,Zomba,I could not find the product and prices were confusing.,negative
+R00234,2025-03-04,Facebook,Product Availability,Kasungu,The product was available in the branch.,neutral
+R00235,2025-11-17,WhatsApp,Service,Thyolo,The service was fast and the staff were helpful.,positive
+R00236,2025-12-04,WhatsApp,App,Mangochi,The service was poor and no one helped me.,negative
+R00237,2024-06-18,Email,Product Availability,Lilongwe,The shop was open and stocked as usual.,neutral
+R00238,2024-06-18,Survey,App,Lilongwe,The queue was too long and staff were rude.,negative
+R00239,2024-12-21,Email,App,Kasungu,The queue was too long and staff were rude.,negative
+R00240,2025-07-03,Facebook,Product Availability,Karonga,The service was poor and no one helped me.,negative
+R00241,2024-06-03,Email,Delivery,Lilongwe,I am happy with the customer care and product availability.,positive
+R00242,2025-10-26,Email,Service,Zomba,I am happy with the customer care and product availability.,positive
+R00243,2024-03-25,Facebook,Service,Zomba,The service was fast and the staff were helpful.,positive
+R00244,2024-01-07,Facebook,Pricing,Blantyre,The product was available in the branch.,neutral
+R00245,2024-06-30,Email,Delivery,Mangochi,The service was poor and no one helped me.,negative
+R00246,2024-07-26,Facebook,Delivery,Salima,The app was easy to use and checkout was smooth.,positive
+R00247,2024-04-06,Email,App,Karonga,The service was poor and no one helped me.,negative
+R00248,2024-10-10,Survey,Pricing,Thyolo,The service was fast and the staff were helpful.,positive
+R00249,2024-02-26,WhatsApp,Pricing,Thyolo,The queue was too long and staff were rude.,negative
+R00250,2024-12-31,Facebook,App,Thyolo,The app kept failing and payment did not go through.,negative
+R00251,2025-10-21,Email,App,Dedza,The order was completed without any major issue.,neutral
+R00252,2024-06-23,WhatsApp,Delivery,Blantyre,The queue was too long and staff were rude.,negative
+R00253,2024-06-30,Facebook,Delivery,Mzimba,The service was fast and the staff were helpful.,positive
+R00254,2024-03-28,Survey,App,Karonga,The product was available in the branch.,neutral
+R00255,2024-01-28,App Review,App,Lilongwe,The process was normal and the prices were average.,neutral
+R00256,2025-02-17,App Review,Product Availability,Dedza,The product was available in the branch.,neutral
+R00257,2025-12-09,Facebook,Product Availability,Blantyre,I am happy with the customer care and product availability.,positive
+R00258,2024-11-03,App Review,App,Karonga,The service was poor and no one helped me.,negative
+R00259,2024-12-28,WhatsApp,App,Thyolo,The service was fast and the staff were helpful.,positive
+R00260,2024-12-19,App Review,Delivery,Lilongwe,The shop was open and stocked as usual.,neutral
+R00261,2025-02-09,WhatsApp,Pricing,Blantyre,The service was fast and the staff were helpful.,positive
+R00262,2024-01-31,WhatsApp,Service,Salima,The app kept failing and payment did not go through.,negative
+R00263,2024-06-10,WhatsApp,Service,Salima,The app kept failing and payment did not go through.,negative
+R00264,2025-10-19,WhatsApp,Delivery,Mzuzu,The app was easy to use and checkout was smooth.,positive
+R00265,2025-09-08,Email,Product Availability,Blantyre,The service was poor and no one helped me.,negative
+R00266,2025-06-08,App Review,Delivery,Mangochi,"Very good experience, clean shop and fair prices.",positive
+R00267,2024-05-02,App Review,App,Karonga,The product was available in the branch.,neutral
+R00268,2025-11-23,WhatsApp,App,Mzuzu,I am happy with the customer care and product availability.,positive
+R00269,2024-10-22,Survey,Product Availability,Karonga,The app was easy to use and checkout was smooth.,positive
+R00270,2025-12-07,Survey,Product Availability,Karonga,The product was available in the branch.,neutral
+R00271,2025-04-30,Facebook,App,Salima,The queue was too long and staff were rude.,negative
+R00272,2025-05-20,App Review,Delivery,Zomba,Delivery was late and the item was damaged.,negative
+R00273,2024-05-22,Survey,Delivery,Rumphi,"Very good experience, clean shop and fair prices.",positive
+R00274,2025-04-24,Survey,App,Blantyre,The order was completed without any major issue.,neutral
+R00275,2025-06-14,App Review,App,Zomba,The app was easy to use and checkout was smooth.,positive
+R00276,2025-11-16,Survey,App,Salima,The queue was too long and staff were rude.,negative
+R00277,2025-02-18,Email,Product Availability,Rumphi,I could not find the product and prices were confusing.,negative
+R00278,2024-10-28,Survey,Product Availability,Kasungu,The process was normal and the prices were average.,neutral
+R00279,2025-11-11,Facebook,Service,Blantyre,The queue was too long and staff were rude.,negative
+R00280,2025-04-17,Email,App,Kasungu,I am happy with the customer care and product availability.,positive
+R00281,2025-12-23,Email,App,Rumphi,The service was fast and the staff were helpful.,positive
+R00282,2025-05-10,Email,App,Mzimba,The app was easy to use and checkout was smooth.,positive
+R00283,2024-10-21,Facebook,App,Thyolo,The queue was too long and staff were rude.,negative
+R00284,2025-01-23,WhatsApp,Delivery,Mzuzu,The app was easy to use and checkout was smooth.,positive
+R00285,2025-02-19,WhatsApp,Pricing,Mzuzu,"Very good experience, clean shop and fair prices.",positive
+R00286,2024-07-27,App Review,Product Availability,Rumphi,I bought what I needed and left.,neutral
+R00287,2025-05-01,App Review,Product Availability,Mangochi,I could not find the product and prices were confusing.,negative
+R00288,2025-08-31,Facebook,Delivery,Dedza,The app kept failing and payment did not go through.,negative
+R00289,2025-03-19,Survey,Product Availability,Zomba,The service was fast and the staff were helpful.,positive
+R00290,2025-05-07,Survey,Product Availability,Kasungu,I am happy with the customer care and product availability.,positive
+R00291,2025-12-13,Email,Product Availability,Mzuzu,The queue was too long and staff were rude.,negative
+R00292,2025-09-07,WhatsApp,App,Mangochi,The service was fast and the staff were helpful.,positive
+R00293,2025-05-02,Email,App,Salima,I am happy with the customer care and product availability.,positive
+R00294,2025-09-17,Email,Product Availability,Karonga,I am happy with the customer care and product availability.,positive
+R00295,2024-09-29,Facebook,Product Availability,Rumphi,The service was fast and the staff were helpful.,positive
+R00296,2024-03-26,App Review,Product Availability,Dedza,I bought what I needed and left.,neutral
+R00297,2024-06-17,App Review,Product Availability,Blantyre,I am happy with the customer care and product availability.,positive
+R00298,2024-05-05,Email,Product Availability,Lilongwe,The shop was open and stocked as usual.,neutral
+R00299,2024-08-17,WhatsApp,Product Availability,Zomba,I could not find the product and prices were confusing.,negative
+R00300,2024-12-17,Email,Product Availability,Mangochi,Delivery was quick and the product quality was excellent.,positive
+R00301,2024-12-15,Email,Service,Salima,Delivery was quick and the product quality was excellent.,positive
+R00302,2025-07-29,Survey,Product Availability,Rumphi,The app kept failing and payment did not go through.,negative
+R00303,2025-08-29,Survey,Delivery,Salima,I could not find the product and prices were confusing.,negative
+R00304,2024-03-18,Email,App,Zomba,The queue was too long and staff were rude.,negative
+R00305,2024-02-08,WhatsApp,App,Mzuzu,The order was completed without any major issue.,neutral
+R00306,2025-09-11,App Review,Service,Kasungu,The app kept failing and payment did not go through.,negative
+R00307,2024-08-04,WhatsApp,Delivery,Thyolo,The product was available in the branch.,neutral
+R00308,2025-12-15,Email,Delivery,Rumphi,The app kept failing and payment did not go through.,negative
+R00309,2024-07-28,App Review,Delivery,Mzimba,"Very good experience, clean shop and fair prices.",positive
+R00310,2024-04-25,Facebook,Product Availability,Blantyre,"Very good experience, clean shop and fair prices.",positive
+R00311,2025-11-27,WhatsApp,Pricing,Dedza,The app kept failing and payment did not go through.,negative
+R00312,2024-08-16,WhatsApp,Pricing,Mzuzu,I could not find the product and prices were confusing.,negative
+R00313,2024-11-28,Survey,Pricing,Lilongwe,The app was easy to use and checkout was smooth.,positive
+R00314,2025-01-21,Facebook,App,Mzuzu,Delivery was quick and the product quality was excellent.,positive
+R00315,2025-06-16,Survey,Pricing,Thyolo,The service was fast and the staff were helpful.,positive
+R00316,2025-05-27,Survey,Service,Zomba,I could not find the product and prices were confusing.,negative
+R00317,2025-10-25,Survey,Delivery,Mangochi,Delivery was late and the item was damaged.,negative
+R00318,2025-03-03,Survey,Product Availability,Mzimba,The service was fast and the staff were helpful.,positive
+R00319,2024-03-14,Facebook,Service,Dedza,The product was available in the branch.,neutral
+R00320,2025-01-08,WhatsApp,Service,Zomba,The app was easy to use and checkout was smooth.,positive
+R00321,2024-04-04,Survey,Service,Mzuzu,The service was fast and the staff were helpful.,positive
+R00322,2025-07-22,Facebook,Product Availability,Rumphi,The product was available in the branch.,neutral
+R00323,2024-11-29,WhatsApp,Service,Rumphi,The order was completed without any major issue.,neutral
+R00324,2024-01-14,WhatsApp,Product Availability,Lilongwe,The app was easy to use and checkout was smooth.,positive
+R00325,2025-04-11,WhatsApp,App,Zomba,The shop was open and stocked as usual.,neutral
+R00326,2024-08-06,WhatsApp,Service,Karonga,"Very good experience, clean shop and fair prices.",positive
+R00327,2025-10-21,WhatsApp,Product Availability,Thyolo,The process was normal and the prices were average.,neutral
+R00328,2025-04-07,WhatsApp,App,Mangochi,Delivery was quick and the product quality was excellent.,positive
+R00329,2025-02-16,Survey,Delivery,Mzuzu,I bought what I needed and left.,neutral
+R00330,2025-01-20,Email,Pricing,Mzuzu,Delivery was quick and the product quality was excellent.,positive
+R00331,2025-02-09,Facebook,Delivery,Lilongwe,I am happy with the customer care and product availability.,positive
+R00332,2024-03-19,Email,Service,Karonga,The queue was too long and staff were rude.,negative
+R00333,2025-02-19,Survey,Product Availability,Mzimba,Delivery was late and the item was damaged.,negative
+R00334,2025-05-29,Email,Service,Thyolo,I bought what I needed and left.,neutral
+R00335,2025-11-05,App Review,Service,Zomba,The process was normal and the prices were average.,neutral
+R00336,2025-10-11,Survey,Delivery,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00337,2024-10-03,Facebook,Product Availability,Karonga,"Very good experience, clean shop and fair prices.",positive
+R00338,2025-12-04,Facebook,Pricing,Kasungu,The product was available in the branch.,neutral
+R00339,2025-06-21,App Review,Product Availability,Rumphi,I could not find the product and prices were confusing.,negative
+R00340,2024-10-17,App Review,Service,Mangochi,The shop was open and stocked as usual.,neutral
+R00341,2025-11-27,Facebook,Service,Zomba,The service was fast and the staff were helpful.,positive
+R00342,2024-02-16,Facebook,Service,Zomba,The app kept failing and payment did not go through.,negative
+R00343,2024-05-05,Email,App,Mzuzu,The product was available in the branch.,neutral
+R00344,2025-02-15,Email,Pricing,Mzimba,The shop was open and stocked as usual.,neutral
+R00345,2025-04-05,Email,App,Karonga,The order was completed without any major issue.,neutral
+R00346,2025-09-20,Email,Delivery,Mzimba,The queue was too long and staff were rude.,negative
+R00347,2025-12-20,App Review,App,Dedza,"Very good experience, clean shop and fair prices.",positive
+R00348,2024-10-20,Email,Pricing,Karonga,The service was fast and the staff were helpful.,positive
+R00349,2024-05-27,App Review,Service,Mangochi,I am happy with the customer care and product availability.,positive
+R00350,2025-07-18,WhatsApp,Delivery,Dedza,I am happy with the customer care and product availability.,positive
+R00351,2025-02-28,Survey,Product Availability,Mzimba,I bought what I needed and left.,neutral
+R00352,2024-04-04,App Review,App,Salima,The service was fast and the staff were helpful.,positive
+R00353,2025-12-25,Survey,Product Availability,Thyolo,The process was normal and the prices were average.,neutral
+R00354,2025-06-02,Facebook,Pricing,Karonga,The app was easy to use and checkout was smooth.,positive
+R00355,2024-09-14,Email,Delivery,Karonga,"Very good experience, clean shop and fair prices.",positive
+R00356,2024-10-02,Survey,Pricing,Lilongwe,Delivery was quick and the product quality was excellent.,positive
+R00357,2025-03-11,Facebook,Pricing,Salima,The queue was too long and staff were rude.,negative
+R00358,2024-10-25,App Review,Product Availability,Karonga,The shop was open and stocked as usual.,neutral
+R00359,2025-07-07,Facebook,Delivery,Karonga,The app kept failing and payment did not go through.,negative
+R00360,2024-04-02,Email,Pricing,Lilongwe,The service was poor and no one helped me.,negative
+R00361,2024-11-22,App Review,Pricing,Kasungu,The service was fast and the staff were helpful.,positive
+R00362,2024-01-16,App Review,Pricing,Kasungu,I could not find the product and prices were confusing.,negative
+R00363,2025-06-22,App Review,App,Dedza,The product was available in the branch.,neutral
+R00364,2024-02-26,Email,Delivery,Mzuzu,I am happy with the customer care and product availability.,positive
+R00365,2025-07-14,Facebook,Delivery,Dedza,Delivery was quick and the product quality was excellent.,positive
+R00366,2025-05-27,WhatsApp,Pricing,Blantyre,The service was poor and no one helped me.,negative
+R00367,2024-04-21,Facebook,Delivery,Lilongwe,The queue was too long and staff were rude.,negative
+R00368,2024-01-12,Facebook,Delivery,Mangochi,"Very good experience, clean shop and fair prices.",positive
+R00369,2024-03-28,WhatsApp,Service,Karonga,The service was fast and the staff were helpful.,positive
+R00370,2025-04-15,Facebook,App,Thyolo,Delivery was quick and the product quality was excellent.,positive
+R00371,2025-05-03,Email,Product Availability,Rumphi,I am happy with the customer care and product availability.,positive
+R00372,2024-03-03,WhatsApp,Service,Karonga,I bought what I needed and left.,neutral
+R00373,2025-04-16,App Review,Pricing,Dedza,"Very good experience, clean shop and fair prices.",positive
+R00374,2025-10-23,App Review,Product Availability,Zomba,I am happy with the customer care and product availability.,positive
+R00375,2024-04-16,WhatsApp,Product Availability,Dedza,The app kept failing and payment did not go through.,negative
+R00376,2024-06-11,Facebook,Pricing,Rumphi,The app was easy to use and checkout was smooth.,positive
+R00377,2024-05-17,Facebook,Delivery,Dedza,Delivery was late and the item was damaged.,negative
+R00378,2024-08-18,App Review,Product Availability,Rumphi,The service was fast and the staff were helpful.,positive
+R00379,2024-08-14,WhatsApp,Service,Mzimba,The service was fast and the staff were helpful.,positive
+R00380,2025-05-28,App Review,Delivery,Salima,"Very good experience, clean shop and fair prices.",positive
+R00381,2025-08-16,Email,App,Mzuzu,Delivery was quick and the product quality was excellent.,positive
+R00382,2025-12-17,App Review,Product Availability,Zomba,"Very good experience, clean shop and fair prices.",positive
+R00383,2024-12-23,Email,Pricing,Mzimba,Delivery was late and the item was damaged.,negative
+R00384,2024-08-08,WhatsApp,Service,Kasungu,The queue was too long and staff were rude.,negative
+R00385,2025-07-24,WhatsApp,Service,Thyolo,The shop was open and stocked as usual.,neutral
+R00386,2024-11-04,Facebook,Product Availability,Mzimba,The service was poor and no one helped me.,negative
+R00387,2025-02-15,App Review,Pricing,Mzuzu,Delivery was quick and the product quality was excellent.,positive
+R00388,2024-07-27,Email,Pricing,Zomba,I bought what I needed and left.,neutral
+R00389,2024-09-03,Facebook,App,Karonga,The shop was open and stocked as usual.,neutral
+R00390,2025-02-02,Facebook,App,Thyolo,I could not find the product and prices were confusing.,negative
+R00391,2024-10-04,App Review,App,Mzuzu,"Very good experience, clean shop and fair prices.",positive
+R00392,2025-12-28,Email,Pricing,Mangochi,Delivery was late and the item was damaged.,negative
+R00393,2024-09-02,Survey,Product Availability,Thyolo,The service was fast and the staff were helpful.,positive
+R00394,2025-10-02,Facebook,App,Zomba,I could not find the product and prices were confusing.,negative
+R00395,2025-09-21,Survey,Product Availability,Zomba,The app kept failing and payment did not go through.,negative
+R00396,2024-09-24,WhatsApp,Pricing,Salima,I bought what I needed and left.,neutral
+R00397,2025-06-05,Facebook,Pricing,Mzimba,I bought what I needed and left.,neutral
+R00398,2024-06-02,Survey,Delivery,Blantyre,I could not find the product and prices were confusing.,negative
+R00399,2024-02-11,Survey,Product Availability,Mzuzu,The product was available in the branch.,neutral
+R00400,2024-10-26,Survey,App,Mzimba,The service was poor and no one helped me.,negative
+R00401,2024-01-10,App Review,App,Mzimba,The queue was too long and staff were rude.,negative
+R00402,2024-10-24,App Review,Product Availability,Rumphi,"Very good experience, clean shop and fair prices.",positive
+R00403,2024-06-28,Email,Service,Dedza,"Very good experience, clean shop and fair prices.",positive
+R00404,2025-08-09,Survey,Pricing,Rumphi,"Very good experience, clean shop and fair prices.",positive
+R00405,2024-11-17,Email,App,Thyolo,The shop was open and stocked as usual.,neutral
+R00406,2024-03-09,Survey,Product Availability,Lilongwe,The shop was open and stocked as usual.,neutral
+R00407,2025-04-26,Facebook,Service,Rumphi,"Very good experience, clean shop and fair prices.",positive
+R00408,2025-05-18,Survey,Product Availability,Karonga,The shop was open and stocked as usual.,neutral
+R00409,2025-01-25,Facebook,Pricing,Kasungu,The order was completed without any major issue.,neutral
+R00410,2025-08-18,Survey,Service,Karonga,The service was fast and the staff were helpful.,positive
+R00411,2024-08-03,App Review,Product Availability,Thyolo,The product was available in the branch.,neutral
+R00412,2025-09-09,Facebook,Service,Salima,Delivery was quick and the product quality was excellent.,positive
+R00413,2024-04-22,App Review,Service,Zomba,The queue was too long and staff were rude.,negative
+R00414,2025-01-17,Email,Service,Mzuzu,I am happy with the customer care and product availability.,positive
+R00415,2024-04-02,Email,Service,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00416,2024-07-29,Facebook,Service,Rumphi,Delivery was late and the item was damaged.,negative
+R00417,2025-04-21,Facebook,App,Karonga,The app was easy to use and checkout was smooth.,positive
+R00418,2025-12-09,WhatsApp,Pricing,Rumphi,The shop was open and stocked as usual.,neutral
+R00419,2024-03-01,Email,Pricing,Karonga,Delivery was late and the item was damaged.,negative
+R00420,2024-10-12,Survey,Service,Kasungu,Delivery was late and the item was damaged.,negative
+R00421,2025-02-09,WhatsApp,Product Availability,Karonga,Delivery was quick and the product quality was excellent.,positive
+R00422,2024-03-27,Survey,App,Salima,The app was easy to use and checkout was smooth.,positive
+R00423,2024-05-10,Survey,Delivery,Dedza,I am happy with the customer care and product availability.,positive
+R00424,2025-02-25,WhatsApp,Product Availability,Karonga,The service was poor and no one helped me.,negative
+R00425,2024-02-10,Facebook,Product Availability,Dedza,The shop was open and stocked as usual.,neutral
+R00426,2024-02-29,WhatsApp,Product Availability,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00427,2024-06-04,App Review,Product Availability,Lilongwe,The service was poor and no one helped me.,negative
+R00428,2025-11-11,App Review,Pricing,Mzuzu,The service was poor and no one helped me.,negative
+R00429,2025-09-29,Survey,Service,Blantyre,The service was poor and no one helped me.,negative
+R00430,2025-12-03,Email,Service,Lilongwe,"Very good experience, clean shop and fair prices.",positive
+R00431,2024-10-06,App Review,Product Availability,Rumphi,I bought what I needed and left.,neutral
+R00432,2024-01-12,App Review,Service,Mzuzu,The shop was open and stocked as usual.,neutral
+R00433,2024-06-23,Email,Delivery,Dedza,Delivery was quick and the product quality was excellent.,positive
+R00434,2024-11-22,Facebook,Product Availability,Salima,Delivery was quick and the product quality was excellent.,positive
+R00435,2024-01-22,WhatsApp,Pricing,Karonga,The app kept failing and payment did not go through.,negative
+R00436,2024-11-12,Survey,Product Availability,Kasungu,The process was normal and the prices were average.,neutral
+R00437,2025-10-28,Survey,App,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00438,2025-09-17,Email,App,Dedza,I am happy with the customer care and product availability.,positive
+R00439,2025-04-03,Survey,Pricing,Lilongwe,The app was easy to use and checkout was smooth.,positive
+R00440,2024-03-27,Survey,Service,Karonga,The app was easy to use and checkout was smooth.,positive
+R00441,2024-07-25,Facebook,App,Mzuzu,The product was available in the branch.,neutral
+R00442,2025-09-09,WhatsApp,Service,Blantyre,The service was fast and the staff were helpful.,positive
+R00443,2025-11-29,Email,Service,Salima,The service was fast and the staff were helpful.,positive
+R00444,2024-03-27,Email,App,Salima,Delivery was quick and the product quality was excellent.,positive
+R00445,2024-03-27,App Review,App,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00446,2025-07-08,Email,Product Availability,Zomba,The process was normal and the prices were average.,neutral
+R00447,2025-11-21,WhatsApp,Service,Mangochi,The product was available in the branch.,neutral
+R00448,2024-03-21,Facebook,Pricing,Mzuzu,I am happy with the customer care and product availability.,positive
+R00449,2025-03-28,WhatsApp,Service,Kasungu,I am happy with the customer care and product availability.,positive
+R00450,2024-03-15,Facebook,App,Blantyre,"Very good experience, clean shop and fair prices.",positive
+R00451,2024-02-26,Facebook,Product Availability,Zomba,The queue was too long and staff were rude.,negative
+R00452,2025-10-31,App Review,Product Availability,Thyolo,"Very good experience, clean shop and fair prices.",positive
+R00453,2024-01-10,WhatsApp,Product Availability,Zomba,I bought what I needed and left.,neutral
+R00454,2025-09-24,Email,Service,Mzimba,The shop was open and stocked as usual.,neutral
+R00455,2024-11-17,WhatsApp,Service,Thyolo,The queue was too long and staff were rude.,negative
+R00456,2025-01-03,WhatsApp,App,Kasungu,The process was normal and the prices were average.,neutral
+R00457,2025-06-02,App Review,App,Kasungu,The service was poor and no one helped me.,negative
+R00458,2024-05-07,Facebook,App,Mangochi,The app kept failing and payment did not go through.,negative
+R00459,2025-04-22,Email,Pricing,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00460,2025-03-18,App Review,Delivery,Rumphi,The order was completed without any major issue.,neutral
+R00461,2025-04-06,App Review,Delivery,Zomba,I could not find the product and prices were confusing.,negative
+R00462,2024-04-23,Survey,App,Salima,I am happy with the customer care and product availability.,positive
+R00463,2025-10-12,Survey,App,Lilongwe,The queue was too long and staff were rude.,negative
+R00464,2025-02-19,App Review,Pricing,Rumphi,I could not find the product and prices were confusing.,negative
+R00465,2025-10-17,App Review,Delivery,Lilongwe,The product was available in the branch.,neutral
+R00466,2024-10-01,Email,Delivery,Thyolo,The app was easy to use and checkout was smooth.,positive
+R00467,2025-10-03,Facebook,Delivery,Karonga,I am happy with the customer care and product availability.,positive
+R00468,2025-07-12,WhatsApp,Pricing,Zomba,I bought what I needed and left.,neutral
+R00469,2025-09-15,Email,App,Karonga,The order was completed without any major issue.,neutral
+R00470,2025-05-27,Facebook,Product Availability,Kasungu,I bought what I needed and left.,neutral
+R00471,2024-03-11,Survey,Pricing,Salima,The order was completed without any major issue.,neutral
+R00472,2024-10-07,Email,Delivery,Thyolo,"Very good experience, clean shop and fair prices.",positive
+R00473,2025-10-12,WhatsApp,Pricing,Dedza,Delivery was late and the item was damaged.,negative
+R00474,2024-01-22,Survey,Product Availability,Mzuzu,The service was fast and the staff were helpful.,positive
+R00475,2025-12-20,Email,App,Rumphi,I am happy with the customer care and product availability.,positive
+R00476,2025-06-23,App Review,Service,Blantyre,The shop was open and stocked as usual.,neutral
+R00477,2025-03-14,WhatsApp,Delivery,Blantyre,The product was available in the branch.,neutral
+R00478,2024-08-03,Survey,Pricing,Blantyre,The service was poor and no one helped me.,negative
+R00479,2025-06-28,Email,Product Availability,Kasungu,The process was normal and the prices were average.,neutral
+R00480,2025-04-08,WhatsApp,Pricing,Blantyre,The process was normal and the prices were average.,neutral
+R00481,2024-02-16,App Review,Delivery,Rumphi,The app was easy to use and checkout was smooth.,positive
+R00482,2025-03-11,Survey,Pricing,Mzimba,"Very good experience, clean shop and fair prices.",positive
+R00483,2024-11-21,Facebook,Service,Lilongwe,Delivery was late and the item was damaged.,negative
+R00484,2024-06-01,Email,Delivery,Salima,The service was poor and no one helped me.,negative
+R00485,2025-04-25,Facebook,Delivery,Mzimba,The process was normal and the prices were average.,neutral
+R00486,2025-05-13,App Review,Service,Lilongwe,The process was normal and the prices were average.,neutral
+R00487,2024-03-15,Email,App,Karonga,"Very good experience, clean shop and fair prices.",positive
+R00488,2024-05-31,Facebook,Product Availability,Kasungu,The service was poor and no one helped me.,negative
+R00489,2025-07-18,App Review,Service,Mangochi,I bought what I needed and left.,neutral
+R00490,2025-05-30,Facebook,Pricing,Zomba,The service was fast and the staff were helpful.,positive
+R00491,2025-12-12,App Review,App,Kasungu,I could not find the product and prices were confusing.,negative
+R00492,2024-01-30,Survey,Service,Mzimba,The process was normal and the prices were average.,neutral
+R00493,2025-01-04,WhatsApp,Product Availability,Kasungu,Delivery was quick and the product quality was excellent.,positive
+R00494,2025-12-26,Survey,Pricing,Mangochi,I am happy with the customer care and product availability.,positive
+R00495,2025-04-10,Survey,App,Salima,The order was completed without any major issue.,neutral
+R00496,2025-01-31,WhatsApp,Service,Zomba,I bought what I needed and left.,neutral
+R00497,2025-05-29,WhatsApp,Service,Kasungu,The product was available in the branch.,neutral
+R00498,2025-07-03,Survey,Pricing,Mzuzu,The service was poor and no one helped me.,negative
+R00499,2024-10-12,App Review,Pricing,Dedza,"Very good experience, clean shop and fair prices.",positive
+R00500,2025-05-23,Email,Pricing,Kasungu,I am happy with the customer care and product availability.,positive
+R00501,2025-11-14,Facebook,Product Availability,Rumphi,Delivery was late and the item was damaged.,negative
+R00502,2025-09-22,Survey,Service,Kasungu,The product was available in the branch.,neutral
+R00503,2025-04-26,WhatsApp,Delivery,Lilongwe,The queue was too long and staff were rude.,negative
+R00504,2025-05-07,Survey,Delivery,Salima,The service was fast and the staff were helpful.,positive
+R00505,2024-04-25,Survey,App,Blantyre,The app kept failing and payment did not go through.,negative
+R00506,2024-01-05,WhatsApp,App,Karonga,The product was available in the branch.,neutral
+R00507,2024-06-15,Email,App,Lilongwe,The shop was open and stocked as usual.,neutral
+R00508,2025-07-14,WhatsApp,Pricing,Mangochi,The app was easy to use and checkout was smooth.,positive
+R00509,2024-12-22,WhatsApp,App,Mzimba,I am happy with the customer care and product availability.,positive
+R00510,2025-05-26,Facebook,Product Availability,Mzimba,The product was available in the branch.,neutral
+R00511,2024-11-02,WhatsApp,Pricing,Zomba,The shop was open and stocked as usual.,neutral
+R00512,2024-02-17,WhatsApp,Product Availability,Mangochi,The process was normal and the prices were average.,neutral
+R00513,2024-03-27,App Review,Delivery,Thyolo,I could not find the product and prices were confusing.,negative
+R00514,2024-11-22,App Review,App,Lilongwe,I am happy with the customer care and product availability.,positive
+R00515,2024-02-28,Email,Delivery,Mzimba,The queue was too long and staff were rude.,negative
+R00516,2024-05-03,Email,App,Thyolo,Delivery was late and the item was damaged.,negative
+R00517,2025-09-24,Email,App,Blantyre,The app kept failing and payment did not go through.,negative
+R00518,2024-08-03,App Review,Service,Zomba,The app kept failing and payment did not go through.,negative
+R00519,2025-12-09,Survey,Delivery,Mzuzu,The app kept failing and payment did not go through.,negative
+R00520,2025-12-27,Email,Delivery,Dedza,The queue was too long and staff were rude.,negative
+R00521,2025-11-20,App Review,Delivery,Rumphi,I am happy with the customer care and product availability.,positive
+R00522,2024-04-04,Email,Pricing,Thyolo,The service was poor and no one helped me.,negative
+R00523,2025-11-07,Survey,Pricing,Rumphi,"Very good experience, clean shop and fair prices.",positive
+R00524,2024-03-04,Email,Delivery,Mzuzu,"Very good experience, clean shop and fair prices.",positive
+R00525,2025-10-23,WhatsApp,Service,Mzuzu,Delivery was late and the item was damaged.,negative
+R00526,2025-03-31,Facebook,Delivery,Mangochi,"Very good experience, clean shop and fair prices.",positive
+R00527,2024-04-12,Email,Pricing,Mzuzu,The service was fast and the staff were helpful.,positive
+R00528,2025-03-03,WhatsApp,Pricing,Mzuzu,The process was normal and the prices were average.,neutral
+R00529,2025-02-02,Facebook,Delivery,Rumphi,The product was available in the branch.,neutral
+R00530,2024-05-10,Survey,Service,Lilongwe,"Very good experience, clean shop and fair prices.",positive
+R00531,2024-04-08,Email,Product Availability,Thyolo,I am happy with the customer care and product availability.,positive
+R00532,2025-04-14,Survey,Pricing,Kasungu,The shop was open and stocked as usual.,neutral
+R00533,2024-12-14,Facebook,Product Availability,Mzimba,The app kept failing and payment did not go through.,negative
+R00534,2024-11-30,Email,App,Mzuzu,I am happy with the customer care and product availability.,positive
+R00535,2025-10-15,App Review,Pricing,Salima,The queue was too long and staff were rude.,negative
+R00536,2024-05-26,Survey,Delivery,Mzuzu,I bought what I needed and left.,neutral
+R00537,2024-09-13,WhatsApp,Service,Mzuzu,The queue was too long and staff were rude.,negative
+R00538,2024-07-17,App Review,Pricing,Mzuzu,I am happy with the customer care and product availability.,positive
+R00539,2024-05-03,App Review,Delivery,Dedza,I could not find the product and prices were confusing.,negative
+R00540,2024-02-11,WhatsApp,Delivery,Dedza,The app was easy to use and checkout was smooth.,positive
+R00541,2025-03-20,App Review,Pricing,Zomba,I could not find the product and prices were confusing.,negative
+R00542,2025-02-01,App Review,App,Rumphi,I am happy with the customer care and product availability.,positive
+R00543,2024-08-07,Facebook,Service,Salima,The service was fast and the staff were helpful.,positive
+R00544,2024-12-31,Facebook,App,Rumphi,The process was normal and the prices were average.,neutral
+R00545,2024-12-10,WhatsApp,Pricing,Mangochi,The service was fast and the staff were helpful.,positive
+R00546,2024-08-08,App Review,Product Availability,Dedza,The service was fast and the staff were helpful.,positive
+R00547,2024-08-13,Email,Pricing,Karonga,The service was fast and the staff were helpful.,positive
+R00548,2025-02-21,Email,App,Zomba,I bought what I needed and left.,neutral
+R00549,2024-01-13,App Review,Service,Blantyre,The queue was too long and staff were rude.,negative
+R00550,2024-03-27,Survey,App,Salima,I could not find the product and prices were confusing.,negative
+R00551,2025-07-13,Survey,Service,Dedza,Delivery was late and the item was damaged.,negative
+R00552,2024-10-02,Email,Service,Kasungu,The service was fast and the staff were helpful.,positive
+R00553,2024-06-06,App Review,Product Availability,Mzimba,The process was normal and the prices were average.,neutral
+R00554,2024-09-19,App Review,Delivery,Karonga,The service was poor and no one helped me.,negative
+R00555,2025-06-19,WhatsApp,Service,Rumphi,"Very good experience, clean shop and fair prices.",positive
+R00556,2024-01-13,Survey,Product Availability,Thyolo,The app was easy to use and checkout was smooth.,positive
+R00557,2024-01-16,Survey,Service,Lilongwe,Delivery was late and the item was damaged.,negative
+R00558,2025-10-22,App Review,App,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00559,2025-12-21,Survey,Service,Salima,The queue was too long and staff were rude.,negative
+R00560,2025-05-02,Facebook,App,Zomba,I could not find the product and prices were confusing.,negative
+R00561,2024-06-27,App Review,Product Availability,Zomba,I bought what I needed and left.,neutral
+R00562,2024-06-09,Email,Delivery,Rumphi,The product was available in the branch.,neutral
+R00563,2025-12-05,Facebook,Service,Kasungu,Delivery was late and the item was damaged.,negative
+R00564,2025-09-23,Survey,Delivery,Thyolo,Delivery was quick and the product quality was excellent.,positive
+R00565,2025-10-26,Survey,Product Availability,Rumphi,I bought what I needed and left.,neutral
+R00566,2025-04-06,Survey,App,Zomba,The product was available in the branch.,neutral
+R00567,2024-11-15,Email,Service,Thyolo,"Very good experience, clean shop and fair prices.",positive
+R00568,2024-12-29,Email,Delivery,Lilongwe,Delivery was quick and the product quality was excellent.,positive
+R00569,2025-06-28,WhatsApp,Service,Dedza,I am happy with the customer care and product availability.,positive
+R00570,2025-10-09,Email,Product Availability,Mzimba,I am happy with the customer care and product availability.,positive
+R00571,2025-06-10,WhatsApp,Delivery,Salima,The app kept failing and payment did not go through.,negative
+R00572,2024-11-28,WhatsApp,Pricing,Rumphi,I could not find the product and prices were confusing.,negative
+R00573,2024-07-13,Facebook,Service,Lilongwe,"Very good experience, clean shop and fair prices.",positive
+R00574,2025-05-19,App Review,Pricing,Mzimba,I could not find the product and prices were confusing.,negative
+R00575,2024-09-19,Facebook,App,Mzimba,The shop was open and stocked as usual.,neutral
+R00576,2024-10-02,App Review,Product Availability,Karonga,I bought what I needed and left.,neutral
+R00577,2024-07-25,Email,Service,Zomba,The shop was open and stocked as usual.,neutral
+R00578,2024-07-14,WhatsApp,Product Availability,Mzimba,The shop was open and stocked as usual.,neutral
+R00579,2025-10-29,Facebook,Service,Salima,The service was fast and the staff were helpful.,positive
+R00580,2025-04-29,App Review,Pricing,Kasungu,The service was poor and no one helped me.,negative
+R00581,2025-03-14,Email,Service,Blantyre,I could not find the product and prices were confusing.,negative
+R00582,2025-02-23,Facebook,Delivery,Mzimba,The service was fast and the staff were helpful.,positive
+R00583,2025-09-14,WhatsApp,Delivery,Zomba,Delivery was quick and the product quality was excellent.,positive
+R00584,2024-11-19,Survey,Service,Lilongwe,The service was poor and no one helped me.,negative
+R00585,2025-12-29,App Review,App,Mzimba,"Very good experience, clean shop and fair prices.",positive
+R00586,2025-05-29,Survey,Pricing,Rumphi,The order was completed without any major issue.,neutral
+R00587,2025-09-10,Facebook,Product Availability,Zomba,The process was normal and the prices were average.,neutral
+R00588,2024-01-18,WhatsApp,Pricing,Mzimba,The service was poor and no one helped me.,negative
+R00589,2025-10-28,Survey,Delivery,Mzimba,The shop was open and stocked as usual.,neutral
+R00590,2025-09-17,Email,Pricing,Zomba,The service was poor and no one helped me.,negative
+R00591,2025-02-24,Survey,Service,Mzimba,"Very good experience, clean shop and fair prices.",positive
+R00592,2024-02-23,Email,Delivery,Rumphi,I bought what I needed and left.,neutral
+R00593,2024-05-13,Survey,App,Zomba,The queue was too long and staff were rude.,negative
+R00594,2025-06-05,Facebook,App,Lilongwe,The service was fast and the staff were helpful.,positive
+R00595,2025-09-08,Facebook,App,Rumphi,I am happy with the customer care and product availability.,positive
+R00596,2025-10-20,Facebook,Product Availability,Mzuzu,The order was completed without any major issue.,neutral
+R00597,2024-07-22,Facebook,Pricing,Lilongwe,"Very good experience, clean shop and fair prices.",positive
+R00598,2025-09-23,App Review,Product Availability,Zomba,The product was available in the branch.,neutral
+R00599,2025-11-13,Survey,Service,Salima,I bought what I needed and left.,neutral
+R00600,2024-02-05,App Review,Pricing,Zomba,Delivery was late and the item was damaged.,negative
+R00601,2025-10-06,Survey,Delivery,Salima,The app kept failing and payment did not go through.,negative
+R00602,2024-07-16,Facebook,Product Availability,Lilongwe,The process was normal and the prices were average.,neutral
+R00603,2025-05-11,Email,Service,Salima,The app kept failing and payment did not go through.,negative
+R00604,2025-06-12,Survey,Delivery,Blantyre,The order was completed without any major issue.,neutral
+R00605,2024-05-23,Email,Service,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00606,2025-05-09,Email,Service,Mzuzu,The process was normal and the prices were average.,neutral
+R00607,2025-01-16,App Review,App,Blantyre,The app kept failing and payment did not go through.,negative
+R00608,2024-07-07,Survey,Service,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00609,2024-01-14,Facebook,App,Zomba,Delivery was quick and the product quality was excellent.,positive
+R00610,2024-11-19,App Review,App,Mangochi,I could not find the product and prices were confusing.,negative
+R00611,2024-03-07,Facebook,App,Kasungu,I could not find the product and prices were confusing.,negative
+R00612,2024-01-16,Survey,Service,Dedza,I bought what I needed and left.,neutral
+R00613,2025-03-21,Email,Pricing,Lilongwe,The app was easy to use and checkout was smooth.,positive
+R00614,2025-05-25,Survey,App,Kasungu,I am happy with the customer care and product availability.,positive
+R00615,2025-06-21,Survey,Pricing,Thyolo,I could not find the product and prices were confusing.,negative
+R00616,2024-09-13,Facebook,Pricing,Rumphi,"Very good experience, clean shop and fair prices.",positive
+R00617,2025-08-27,Survey,Product Availability,Salima,"Very good experience, clean shop and fair prices.",positive
+R00618,2024-06-17,Survey,Delivery,Kasungu,Delivery was late and the item was damaged.,negative
+R00619,2024-01-04,App Review,Pricing,Rumphi,The app was easy to use and checkout was smooth.,positive
+R00620,2024-03-03,Survey,Service,Blantyre,Delivery was quick and the product quality was excellent.,positive
+R00621,2025-09-16,WhatsApp,Product Availability,Mangochi,The service was fast and the staff were helpful.,positive
+R00622,2024-05-07,WhatsApp,Pricing,Zomba,The service was fast and the staff were helpful.,positive
+R00623,2024-05-09,WhatsApp,Service,Lilongwe,The service was fast and the staff were helpful.,positive
+R00624,2024-01-25,WhatsApp,Product Availability,Rumphi,I bought what I needed and left.,neutral
+R00625,2024-09-15,Survey,Product Availability,Thyolo,"Very good experience, clean shop and fair prices.",positive
+R00626,2025-09-12,App Review,Delivery,Salima,The app was easy to use and checkout was smooth.,positive
+R00627,2024-08-10,App Review,Pricing,Karonga,Delivery was quick and the product quality was excellent.,positive
+R00628,2024-03-22,Facebook,Product Availability,Karonga,Delivery was late and the item was damaged.,negative
+R00629,2024-12-07,Facebook,Product Availability,Mzimba,I could not find the product and prices were confusing.,negative
+R00630,2025-07-30,Survey,Pricing,Lilongwe,The order was completed without any major issue.,neutral
+R00631,2025-01-16,WhatsApp,Delivery,Mzuzu,"Very good experience, clean shop and fair prices.",positive
+R00632,2025-03-17,Facebook,Delivery,Lilongwe,"Very good experience, clean shop and fair prices.",positive
+R00633,2024-07-21,Email,Delivery,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00634,2024-05-05,Facebook,App,Dedza,I am happy with the customer care and product availability.,positive
+R00635,2024-10-23,WhatsApp,App,Mangochi,"Very good experience, clean shop and fair prices.",positive
+R00636,2025-05-05,App Review,Product Availability,Mzuzu,"Very good experience, clean shop and fair prices.",positive
+R00637,2025-06-02,App Review,Service,Karonga,The queue was too long and staff were rude.,negative
+R00638,2024-08-15,Facebook,Delivery,Zomba,The app kept failing and payment did not go through.,negative
+R00639,2025-07-28,Survey,Product Availability,Lilongwe,I bought what I needed and left.,neutral
+R00640,2024-02-05,Survey,Service,Mzimba,I bought what I needed and left.,neutral
+R00641,2024-03-26,Survey,Product Availability,Blantyre,Delivery was quick and the product quality was excellent.,positive
+R00642,2025-10-13,Survey,Service,Rumphi,The service was fast and the staff were helpful.,positive
+R00643,2025-10-05,Facebook,Service,Zomba,The app was easy to use and checkout was smooth.,positive
+R00644,2025-11-20,App Review,Delivery,Zomba,"Very good experience, clean shop and fair prices.",positive
+R00645,2024-12-07,App Review,Delivery,Thyolo,The product was available in the branch.,neutral
+R00646,2024-02-07,Survey,Service,Mzuzu,The order was completed without any major issue.,neutral
+R00647,2024-09-12,App Review,Product Availability,Mzimba,The service was poor and no one helped me.,negative
+R00648,2024-08-19,WhatsApp,Product Availability,Dedza,The process was normal and the prices were average.,neutral
+R00649,2025-07-07,Email,App,Salima,I am happy with the customer care and product availability.,positive
+R00650,2025-02-24,Facebook,Service,Zomba,The app kept failing and payment did not go through.,negative
+R00651,2025-01-19,Survey,Pricing,Mzimba,I am happy with the customer care and product availability.,positive
+R00652,2024-03-04,WhatsApp,App,Karonga,I could not find the product and prices were confusing.,negative
+R00653,2025-10-05,Facebook,Service,Mangochi,"Very good experience, clean shop and fair prices.",positive
+R00654,2025-08-13,App Review,Product Availability,Salima,The app was easy to use and checkout was smooth.,positive
+R00655,2025-11-28,App Review,Delivery,Thyolo,The product was available in the branch.,neutral
+R00656,2025-11-15,Facebook,Pricing,Thyolo,The service was fast and the staff were helpful.,positive
+R00657,2024-09-03,Survey,App,Mangochi,I could not find the product and prices were confusing.,negative
+R00658,2024-05-30,Email,Delivery,Dedza,"Very good experience, clean shop and fair prices.",positive
+R00659,2024-01-31,Facebook,Product Availability,Mzuzu,I am happy with the customer care and product availability.,positive
+R00660,2025-09-12,Survey,Product Availability,Thyolo,Delivery was quick and the product quality was excellent.,positive
+R00661,2024-05-17,App Review,App,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00662,2025-12-22,Email,Delivery,Thyolo,Delivery was quick and the product quality was excellent.,positive
+R00663,2024-02-23,App Review,Product Availability,Mangochi,I bought what I needed and left.,neutral
+R00664,2025-04-21,App Review,Product Availability,Thyolo,The product was available in the branch.,neutral
+R00665,2024-01-30,Email,Delivery,Mzimba,"Very good experience, clean shop and fair prices.",positive
+R00666,2025-12-24,WhatsApp,Delivery,Mzuzu,The service was poor and no one helped me.,negative
+R00667,2024-04-29,Survey,App,Mzuzu,Delivery was late and the item was damaged.,negative
+R00668,2025-07-26,App Review,Pricing,Kasungu,The app was easy to use and checkout was smooth.,positive
+R00669,2025-11-05,App Review,Delivery,Zomba,The queue was too long and staff were rude.,negative
+R00670,2024-01-14,WhatsApp,Service,Thyolo,The process was normal and the prices were average.,neutral
+R00671,2025-02-04,Email,Service,Rumphi,I am happy with the customer care and product availability.,positive
+R00672,2025-02-13,WhatsApp,Pricing,Dedza,The app was easy to use and checkout was smooth.,positive
+R00673,2024-10-15,Survey,Service,Zomba,The order was completed without any major issue.,neutral
+R00674,2025-03-07,WhatsApp,Delivery,Kasungu,Delivery was late and the item was damaged.,negative
+R00675,2024-10-10,WhatsApp,App,Kasungu,The app kept failing and payment did not go through.,negative
+R00676,2025-11-06,Survey,Pricing,Lilongwe,The shop was open and stocked as usual.,neutral
+R00677,2024-08-30,WhatsApp,App,Karonga,The product was available in the branch.,neutral
+R00678,2024-07-10,WhatsApp,App,Zomba,I am happy with the customer care and product availability.,positive
+R00679,2025-05-12,WhatsApp,App,Mzuzu,The order was completed without any major issue.,neutral
+R00680,2024-07-07,Survey,Delivery,Thyolo,The app was easy to use and checkout was smooth.,positive
+R00681,2025-04-02,Email,Delivery,Lilongwe,I am happy with the customer care and product availability.,positive
+R00682,2024-08-22,Email,Product Availability,Blantyre,The process was normal and the prices were average.,neutral
+R00683,2024-07-04,Facebook,Pricing,Rumphi,The app kept failing and payment did not go through.,negative
+R00684,2024-11-11,App Review,Delivery,Mangochi,The service was fast and the staff were helpful.,positive
+R00685,2024-03-07,Facebook,Service,Salima,Delivery was quick and the product quality was excellent.,positive
+R00686,2024-12-22,Email,Pricing,Blantyre,The app was easy to use and checkout was smooth.,positive
+R00687,2025-12-24,Email,Product Availability,Lilongwe,The order was completed without any major issue.,neutral
+R00688,2024-10-09,WhatsApp,Product Availability,Salima,The app was easy to use and checkout was smooth.,positive
+R00689,2025-02-13,Survey,Product Availability,Kasungu,The shop was open and stocked as usual.,neutral
+R00690,2025-06-20,Facebook,Pricing,Mangochi,The service was fast and the staff were helpful.,positive
+R00691,2024-01-16,Facebook,Pricing,Mangochi,The service was fast and the staff were helpful.,positive
+R00692,2025-02-07,Facebook,Service,Rumphi,I am happy with the customer care and product availability.,positive
+R00693,2024-01-20,Survey,Product Availability,Thyolo,The app was easy to use and checkout was smooth.,positive
+R00694,2025-10-26,Survey,Pricing,Zomba,The service was fast and the staff were helpful.,positive
+R00695,2024-03-07,Facebook,App,Mzimba,The shop was open and stocked as usual.,neutral
+R00696,2025-11-04,Facebook,App,Salima,The process was normal and the prices were average.,neutral
+R00697,2024-09-30,Survey,Pricing,Lilongwe,The shop was open and stocked as usual.,neutral
+R00698,2024-01-16,Facebook,Product Availability,Salima,The app was easy to use and checkout was smooth.,positive
+R00699,2025-06-22,Survey,Service,Thyolo,The service was fast and the staff were helpful.,positive
+R00700,2025-02-19,Email,Service,Thyolo,"Very good experience, clean shop and fair prices.",positive
+R00701,2024-03-30,Email,Pricing,Karonga,I could not find the product and prices were confusing.,negative
+R00702,2024-08-13,Email,Product Availability,Lilongwe,Delivery was quick and the product quality was excellent.,positive
+R00703,2025-03-10,App Review,Service,Lilongwe,"Very good experience, clean shop and fair prices.",positive
+R00704,2025-01-07,Survey,App,Mzuzu,Delivery was quick and the product quality was excellent.,positive
+R00705,2024-08-27,App Review,Pricing,Mzimba,I am happy with the customer care and product availability.,positive
+R00706,2025-06-25,App Review,App,Mangochi,I am happy with the customer care and product availability.,positive
+R00707,2025-08-04,WhatsApp,Service,Mzuzu,The app was easy to use and checkout was smooth.,positive
+R00708,2025-06-23,App Review,Product Availability,Kasungu,The queue was too long and staff were rude.,negative
+R00709,2024-08-18,Survey,Service,Mzuzu,I bought what I needed and left.,neutral
+R00710,2025-05-09,App Review,App,Mzimba,The service was fast and the staff were helpful.,positive
+R00711,2025-11-19,Survey,Delivery,Salima,The app kept failing and payment did not go through.,negative
+R00712,2025-01-21,WhatsApp,App,Mzimba,The service was poor and no one helped me.,negative
+R00713,2024-05-12,Facebook,App,Dedza,The app was easy to use and checkout was smooth.,positive
+R00714,2024-11-17,App Review,Delivery,Karonga,The product was available in the branch.,neutral
+R00715,2025-09-29,Facebook,Service,Mzimba,I am happy with the customer care and product availability.,positive
+R00716,2024-02-27,App Review,Pricing,Zomba,I could not find the product and prices were confusing.,negative
+R00717,2024-11-01,Survey,App,Salima,Delivery was quick and the product quality was excellent.,positive
+R00718,2025-05-27,Survey,App,Karonga,The service was poor and no one helped me.,negative
+R00719,2024-03-10,App Review,Delivery,Salima,The service was poor and no one helped me.,negative
+R00720,2025-02-14,App Review,Pricing,Blantyre,The shop was open and stocked as usual.,neutral
+R00721,2024-03-15,Facebook,Delivery,Mangochi,The process was normal and the prices were average.,neutral
+R00722,2025-09-12,Survey,App,Lilongwe,The app was easy to use and checkout was smooth.,positive
+R00723,2025-02-24,Facebook,Delivery,Blantyre,Delivery was quick and the product quality was excellent.,positive
+R00724,2025-09-19,Facebook,Product Availability,Mzuzu,The order was completed without any major issue.,neutral
+R00725,2025-04-16,Email,App,Mangochi,"Very good experience, clean shop and fair prices.",positive
+R00726,2024-05-06,WhatsApp,App,Thyolo,The product was available in the branch.,neutral
+R00727,2024-12-10,Survey,Service,Mzimba,The order was completed without any major issue.,neutral
+R00728,2025-07-24,Facebook,Delivery,Mzimba,The app was easy to use and checkout was smooth.,positive
+R00729,2024-01-23,Email,Delivery,Mzimba,I am happy with the customer care and product availability.,positive
+R00730,2024-09-07,Email,App,Mangochi,I am happy with the customer care and product availability.,positive
+R00731,2025-02-16,App Review,Delivery,Thyolo,The product was available in the branch.,neutral
+R00732,2025-12-04,Email,Service,Mzuzu,The service was poor and no one helped me.,negative
+R00733,2024-08-08,Survey,Product Availability,Rumphi,The queue was too long and staff were rude.,negative
+R00734,2025-06-15,App Review,Pricing,Thyolo,The shop was open and stocked as usual.,neutral
+R00735,2025-03-25,Survey,Service,Mangochi,The app was easy to use and checkout was smooth.,positive
+R00736,2024-10-29,Survey,Product Availability,Dedza,The product was available in the branch.,neutral
+R00737,2024-05-04,Email,Pricing,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00738,2025-07-31,Facebook,Product Availability,Karonga,The service was fast and the staff were helpful.,positive
+R00739,2025-12-17,Survey,Product Availability,Karonga,"Very good experience, clean shop and fair prices.",positive
+R00740,2025-12-08,Email,Delivery,Blantyre,The service was fast and the staff were helpful.,positive
+R00741,2024-09-22,WhatsApp,Product Availability,Blantyre,The process was normal and the prices were average.,neutral
+R00742,2024-08-26,Facebook,Delivery,Salima,The app was easy to use and checkout was smooth.,positive
+R00743,2025-05-24,Email,Service,Salima,The service was fast and the staff were helpful.,positive
+R00744,2025-01-09,Facebook,App,Zomba,The service was poor and no one helped me.,negative
+R00745,2025-12-08,Survey,Product Availability,Mzimba,I am happy with the customer care and product availability.,positive
+R00746,2025-10-19,Facebook,Pricing,Kasungu,"Very good experience, clean shop and fair prices.",positive
+R00747,2024-06-28,Facebook,Delivery,Thyolo,The queue was too long and staff were rude.,negative
+R00748,2025-04-08,App Review,Service,Zomba,Delivery was late and the item was damaged.,negative
+R00749,2024-08-20,Email,Service,Thyolo,The order was completed without any major issue.,neutral
+R00750,2024-06-18,Survey,App,Thyolo,Delivery was late and the item was damaged.,negative
+R00751,2024-03-17,Survey,Pricing,Rumphi,I am happy with the customer care and product availability.,positive
+R00752,2025-04-01,Email,Service,Mangochi,The app was easy to use and checkout was smooth.,positive
+R00753,2024-01-09,Email,Delivery,Salima,The service was poor and no one helped me.,negative
+R00754,2025-12-25,Survey,App,Mzimba,The process was normal and the prices were average.,neutral
+R00755,2024-12-27,WhatsApp,App,Mzuzu,The service was fast and the staff were helpful.,positive
+R00756,2025-10-04,App Review,Product Availability,Karonga,The service was fast and the staff were helpful.,positive
+R00757,2025-03-13,Survey,Delivery,Rumphi,I am happy with the customer care and product availability.,positive
+R00758,2025-07-27,Facebook,Service,Mzimba,The app kept failing and payment did not go through.,negative
+R00759,2025-04-04,WhatsApp,App,Mzimba,Delivery was late and the item was damaged.,negative
+R00760,2024-04-05,Email,Delivery,Karonga,I bought what I needed and left.,neutral
+R00761,2024-11-14,Survey,Service,Mangochi,The app kept failing and payment did not go through.,negative
+R00762,2025-12-23,Email,Delivery,Blantyre,I am happy with the customer care and product availability.,positive
+R00763,2024-02-28,Survey,Product Availability,Mangochi,I could not find the product and prices were confusing.,negative
+R00764,2024-05-08,App Review,Product Availability,Kasungu,The app was easy to use and checkout was smooth.,positive
+R00765,2025-10-14,Email,Product Availability,Thyolo,"Very good experience, clean shop and fair prices.",positive
+R00766,2025-05-11,Survey,Delivery,Salima,The app kept failing and payment did not go through.,negative
+R00767,2025-09-02,Facebook,App,Dedza,"Very good experience, clean shop and fair prices.",positive
+R00768,2025-10-09,App Review,App,Kasungu,I am happy with the customer care and product availability.,positive
+R00769,2024-01-27,WhatsApp,Pricing,Rumphi,The shop was open and stocked as usual.,neutral
+R00770,2024-06-23,Survey,App,Zomba,Delivery was quick and the product quality was excellent.,positive
+R00771,2025-03-26,Survey,Pricing,Kasungu,"Very good experience, clean shop and fair prices.",positive
+R00772,2025-04-23,Survey,Service,Lilongwe,The shop was open and stocked as usual.,neutral
+R00773,2024-10-04,Survey,Service,Blantyre,The order was completed without any major issue.,neutral
+R00774,2025-01-31,Survey,Product Availability,Salima,The service was fast and the staff were helpful.,positive
+R00775,2025-12-04,WhatsApp,Pricing,Mzimba,The service was fast and the staff were helpful.,positive
+R00776,2024-11-30,Facebook,Service,Kasungu,The product was available in the branch.,neutral
+R00777,2025-11-03,Facebook,Pricing,Kasungu,Delivery was late and the item was damaged.,negative
+R00778,2024-10-25,Email,Product Availability,Blantyre,The app was easy to use and checkout was smooth.,positive
+R00779,2025-03-04,Survey,Product Availability,Salima,The process was normal and the prices were average.,neutral
+R00780,2024-12-22,Email,Delivery,Blantyre,The process was normal and the prices were average.,neutral
+R00781,2024-11-24,Email,Service,Dedza,Delivery was quick and the product quality was excellent.,positive
+R00782,2025-02-03,Survey,Service,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00783,2025-04-09,App Review,Delivery,Mangochi,The app kept failing and payment did not go through.,negative
+R00784,2024-12-20,Facebook,Product Availability,Mangochi,I bought what I needed and left.,neutral
+R00785,2024-01-02,App Review,Delivery,Thyolo,The app was easy to use and checkout was smooth.,positive
+R00786,2024-02-07,App Review,Product Availability,Rumphi,The process was normal and the prices were average.,neutral
+R00787,2024-01-30,Email,Pricing,Zomba,Delivery was late and the item was damaged.,negative
+R00788,2024-05-27,Survey,Product Availability,Kasungu,The app was easy to use and checkout was smooth.,positive
+R00789,2024-03-07,Survey,Service,Mangochi,The queue was too long and staff were rude.,negative
+R00790,2025-09-17,Survey,Service,Lilongwe,The app was easy to use and checkout was smooth.,positive
+R00791,2024-10-09,Survey,Service,Salima,Delivery was quick and the product quality was excellent.,positive
+R00792,2024-12-08,WhatsApp,Pricing,Karonga,The service was fast and the staff were helpful.,positive
+R00793,2025-11-15,App Review,Service,Blantyre,The app was easy to use and checkout was smooth.,positive
+R00794,2024-11-23,Survey,Delivery,Thyolo,The queue was too long and staff were rude.,negative
+R00795,2025-09-06,Survey,App,Mangochi,The queue was too long and staff were rude.,negative
+R00796,2025-01-31,Survey,Delivery,Karonga,"Very good experience, clean shop and fair prices.",positive
+R00797,2025-02-22,Email,App,Rumphi,The service was poor and no one helped me.,negative
+R00798,2025-10-08,Survey,Pricing,Rumphi,The app kept failing and payment did not go through.,negative
+R00799,2025-07-21,Facebook,Service,Thyolo,The app kept failing and payment did not go through.,negative
+R00800,2025-04-14,WhatsApp,Pricing,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00801,2024-12-01,App Review,Service,Blantyre,The shop was open and stocked as usual.,neutral
+R00802,2025-09-12,Survey,Pricing,Karonga,The queue was too long and staff were rude.,negative
+R00803,2025-09-30,Email,App,Dedza,The product was available in the branch.,neutral
+R00804,2024-08-30,Survey,Delivery,Mzimba,Delivery was quick and the product quality was excellent.,positive
+R00805,2025-05-31,Facebook,Service,Salima,The app kept failing and payment did not go through.,negative
+R00806,2025-07-26,Email,Delivery,Mzimba,The service was poor and no one helped me.,negative
+R00807,2024-04-25,Facebook,App,Lilongwe,The queue was too long and staff were rude.,negative
+R00808,2024-08-29,App Review,Product Availability,Karonga,I am happy with the customer care and product availability.,positive
+R00809,2024-12-07,App Review,Delivery,Mangochi,The process was normal and the prices were average.,neutral
+R00810,2025-10-19,WhatsApp,Delivery,Kasungu,"Very good experience, clean shop and fair prices.",positive
+R00811,2024-01-06,App Review,App,Rumphi,Delivery was quick and the product quality was excellent.,positive
+R00812,2024-07-12,Facebook,Product Availability,Rumphi,The app was easy to use and checkout was smooth.,positive
+R00813,2025-05-29,Email,Service,Mzuzu,The service was fast and the staff were helpful.,positive
+R00814,2025-04-18,Facebook,Product Availability,Mangochi,The service was poor and no one helped me.,negative
+R00815,2024-04-15,Email,Delivery,Thyolo,Delivery was quick and the product quality was excellent.,positive
+R00816,2024-03-27,App Review,Service,Kasungu,The app was easy to use and checkout was smooth.,positive
+R00817,2025-12-16,App Review,Product Availability,Karonga,The app was easy to use and checkout was smooth.,positive
+R00818,2024-12-21,App Review,Pricing,Mangochi,The queue was too long and staff were rude.,negative
+R00819,2025-05-12,Survey,Product Availability,Karonga,The process was normal and the prices were average.,neutral
+R00820,2025-10-07,Survey,Pricing,Kasungu,The service was fast and the staff were helpful.,positive
+R00821,2025-01-29,Survey,Pricing,Thyolo,The service was poor and no one helped me.,negative
+R00822,2024-06-26,Facebook,Service,Blantyre,"Very good experience, clean shop and fair prices.",positive
+R00823,2025-02-07,App Review,Product Availability,Dedza,The service was poor and no one helped me.,negative
+R00824,2025-11-11,App Review,Delivery,Zomba,I could not find the product and prices were confusing.,negative
+R00825,2024-10-07,Email,Pricing,Salima,"Very good experience, clean shop and fair prices.",positive
+R00826,2024-07-30,Survey,Pricing,Lilongwe,The app was easy to use and checkout was smooth.,positive
+R00827,2024-09-02,Facebook,Delivery,Salima,Delivery was late and the item was damaged.,negative
+R00828,2025-09-12,Facebook,Product Availability,Lilongwe,Delivery was quick and the product quality was excellent.,positive
+R00829,2025-03-05,Facebook,Pricing,Salima,I could not find the product and prices were confusing.,negative
+R00830,2025-11-03,App Review,Service,Blantyre,The queue was too long and staff were rude.,negative
+R00831,2025-01-01,Email,Product Availability,Zomba,The app kept failing and payment did not go through.,negative
+R00832,2025-09-13,WhatsApp,App,Dedza,"Very good experience, clean shop and fair prices.",positive
+R00833,2024-02-16,App Review,Pricing,Mzuzu,I could not find the product and prices were confusing.,negative
+R00834,2024-12-01,Facebook,Delivery,Lilongwe,The order was completed without any major issue.,neutral
+R00835,2024-05-28,WhatsApp,Product Availability,Mzuzu,The app was easy to use and checkout was smooth.,positive
+R00836,2024-10-10,App Review,Service,Mangochi,Delivery was late and the item was damaged.,negative
+R00837,2024-03-20,WhatsApp,Service,Zomba,The app kept failing and payment did not go through.,negative
+R00838,2024-01-16,Survey,Service,Mzuzu,The service was fast and the staff were helpful.,positive
+R00839,2024-06-26,Survey,Delivery,Zomba,Delivery was late and the item was damaged.,negative
+R00840,2025-06-29,Survey,Pricing,Zomba,The service was fast and the staff were helpful.,positive
+R00841,2025-04-25,Email,Pricing,Blantyre,I could not find the product and prices were confusing.,negative
+R00842,2025-11-24,App Review,Delivery,Mangochi,Delivery was late and the item was damaged.,negative
+R00843,2025-04-04,WhatsApp,Product Availability,Blantyre,I bought what I needed and left.,neutral
+R00844,2024-12-10,Facebook,Pricing,Mzimba,I am happy with the customer care and product availability.,positive
+R00845,2025-09-18,Email,Pricing,Mangochi,The app was easy to use and checkout was smooth.,positive
+R00846,2025-02-20,WhatsApp,Delivery,Mangochi,The shop was open and stocked as usual.,neutral
+R00847,2025-11-14,Email,Pricing,Zomba,The order was completed without any major issue.,neutral
+R00848,2025-07-31,Email,Service,Mzuzu,"Very good experience, clean shop and fair prices.",positive
+R00849,2024-06-05,App Review,App,Zomba,The process was normal and the prices were average.,neutral
+R00850,2024-12-20,App Review,Pricing,Kasungu,The order was completed without any major issue.,neutral
